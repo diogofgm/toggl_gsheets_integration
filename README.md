@@ -1,1 +1,1 @@
-# toggl_gsheets_integration
+# Toggl Google Sheets Integration
